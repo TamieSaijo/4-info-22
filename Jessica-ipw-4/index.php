@@ -35,18 +35,22 @@
 		     <li>
 			   <a href="?dir=1_introducao&file=1_echo">1_echo</a>
 			 </li>
+			 
 			 <li>
 			   <a href="?dir=1_introducao&file=2_variaveis">2_variaveis</a>
 			 </li>
+			 
 			 <li>
 			   <a href="?dir=1_introducao&file=3_comentario">3_comentario</a>
 			 </li>
+			 
 			 <li>
 			   <a href="?dir=1_introducao&file=4_string">4_string</a>
 			 </li>
 		  </ul>
 	    </div>
 		</div>
+		
 		<div class="col-md-4 p-2">
 		 <div class="p-0 modulo verde-escuro">
 	       <h3 class="p-2"> 2_funcoes</h3>
@@ -104,10 +108,30 @@
 			   <a href="?dir=3_array&file=2_associativo">2_associativo</a>
 			 </li>
 			 
+		  </ul>
+	    </div>
+	   </div>
+	   
+	   <div class="col-md-4 p-2">
+		 <div class="p-0 modulo verde-escuro">
+	       <h3 class="p-2"> 4_pdo</h3>
+		    <ul>
+		     <li>
+			   <a href="?dir=4_pdo&file=1_pdo">1_pdo</a>
+			 </li>
+			 
+			 <li>
+			   <a href="?dir=4_pdo&file=2_trycatch">2_trycatch</a>
+			 </li>
+			 
+			 <li>
+			   <a href="?dir=4_pdo&file=3_execute">3_execute</a>
+			 </li>
 			 
 		  </ul>
 	    </div>
 	   </div>
+	   
 			 <?php } ?>
 	  </main>
 	 </div>
